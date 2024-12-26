@@ -1,0 +1,3 @@
+{"_id":{"$oid":"676cacada637f0ffabebbf9a"},"nokamar":"01","jenis":"Ekonomi","ukuran":"5x4 meter","harga":"500.000"}
+{"_id":{"$oid":"676cad0ba637f0ffabebbf9b"},"nokamar":"02","jenis":"Ekonomi","ukuran":"5x4 meter","harga":"500.000"}
+{"_id":{"$oid":"676cad5aa637f0ffabebbf9c"},"nokamar":"03","jenis":"Reguler","ukuran":"5x4 meter","harga":"1.000.000"}
